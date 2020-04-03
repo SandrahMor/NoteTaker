@@ -1,8 +1,8 @@
-var notes = require("..db/db")
+// var notes = require("..db/db")
 
 module.exports = function(app) {
-    app.get("/api/tables", function(req, res) {
-        res.json(tableData);
+    app.get("/api/notes", function(req, res) {
+        res.json();
       });
     
 }
