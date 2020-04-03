@@ -1,0 +1,5 @@
+files needed: 
+    routes (api, html )
+    data (notesData) ->db.json
+    server 
+    
