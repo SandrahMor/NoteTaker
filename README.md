@@ -15,7 +15,7 @@ This application was built using node.js, which is server-side javascript.
 
 To use this application:
 
-- Clone the GitHub repository at: http://github.com/shininglite/notetaker
+- Clone the GitHub repository at: https://github.com/SandrahMor/NoteTaker
 
 Download and install node.js.
 
